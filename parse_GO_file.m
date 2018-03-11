@@ -6,9 +6,8 @@
 % 
 % INPUT:	GO_file_nm: file path
 %
-% OUTPUT: 	GO_mat: GXT size binary matrix. [GO_mat(g,t)=1 if gene g known as connected to term t]
-%			gene_set: G size vector with genes names. sorted alphabeticly.
-%			terms_set: T size vector with terms names. sorted alphabeticly.
+% OUTPUT: 	go: GXT size binary matrix. 
+%                   [GO_mat(g,t)=1 if gene g known as connected to term t]
 %
 % @ Maya Galili. Dec 2017
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
